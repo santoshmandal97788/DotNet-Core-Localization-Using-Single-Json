@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "CBRtbp1pSTgE+VYykIzLZQtOPrj+kI61D1ieAuEiFwg=",
+  "Source": "LocalizationUsingSingleJsonFile",
+  "BasePath": "_content/LocalizationUsingSingleJsonFile",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

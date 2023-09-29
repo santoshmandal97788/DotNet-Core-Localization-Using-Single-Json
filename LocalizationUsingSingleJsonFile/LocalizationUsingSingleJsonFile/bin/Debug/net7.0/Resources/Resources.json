@@ -1,0 +1,12 @@
+{
+  "Hello": {
+    "en-us": "hello from en-us",
+    "es-es": "hola",
+    "fr-FR": "Bonjour"
+  },
+  "Welcome": {
+    "en-US": "Welcome",
+    "es-ES": "Bienvenido",
+    "fr-FR": "Bienvenue"
+  }
+}
