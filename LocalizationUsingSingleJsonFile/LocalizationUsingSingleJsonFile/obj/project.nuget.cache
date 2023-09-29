@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "KrBw5+0pncfVojw8e4BKhTg3fCWOFjXkqJRnGYVyTN/JTaVHpaYcfY11T5NsaCLCYFK/97iNNDPXAptov4Ut8w==",
+  "success": true,
+  "projectFilePath": "C:\\DotNet-Core-Localization-Using-Single-Json\\LocalizationUsingSingleJsonFile\\LocalizationUsingSingleJsonFile\\LocalizationUsingSingleJsonFile.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Santosh Kumar Mandal\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.9\\microsoft.aspnetcore.openapi.7.0.9.nupkg.sha512",
+    "C:\\Users\\Santosh Kumar Mandal\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\Santosh Kumar Mandal\\.nuget\\packages\\microsoft.openapi\\1.4.3\\microsoft.openapi.1.4.3.nupkg.sha512",
+    "C:\\Users\\Santosh Kumar Mandal\\.nuget\\packages\\swashbuckle.aspnetcore\\6.5.0\\swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "C:\\Users\\Santosh Kumar Mandal\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.5.0\\swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "C:\\Users\\Santosh Kumar Mandal\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.5.0\\swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "C:\\Users\\Santosh Kumar Mandal\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.5.0\\swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
