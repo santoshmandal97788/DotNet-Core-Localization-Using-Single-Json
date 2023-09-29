@@ -6,13 +6,12 @@ namespace LocalizationUsingSingleJsonFile.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
-    public class LocalizationController : ControllerBase
+    public class LocalizationController : BaseController
     {
-        private readonly IStringLocalizer _localizer;
-        public LocalizationController(IStringLocalizer localizer)
+        public LocalizationController(IStringLocalizer localizer) : base(localizer)
         {
-                _localizer = localizer;
         }
+
         [HttpGet]
         public IActionResult Get()
         {
